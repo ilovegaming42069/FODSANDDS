@@ -1,0 +1,427 @@
+Age,Age Category,Sex,Qualifications,Habitat,Media use(hrs/day),Media category,Well-being score,Well-being category,anxiety score,anxiety category
+30,Young,Female,PG,Urban Municipal Area,10,High,56,Middle,9,Low
+27,Young,Male  ,PG,Urban Municipal Area,8,Middle,48,Middle,17,Low
+25,Young,Male  ,PG,Urban Municipal Area,11,High,45,Low,18,Low
+25,Young,Male  ,PG,Urban Municipal Area,12,High,50,Middle,12,Low
+22,Young,Male  ,UG,Urban Municipal Area,8,Middle,41,Low,10,Low
+23,Young,Male  ,PG,Urban Municipal Area,11,High,26,Low,38,High
+26,Young,Male  ,PG,Rural               ,7,Low,57,High,39,High
+25,Young,Male  ,PG,Rural               ,7,Low,34,Low,7,Low
+57,Mid  ,Male  ,Phd/M.Phil,Urban Municipal Area,6,Low,54,Middle,1,Low
+23,Young,Male  ,UG,Urban Municipal Area,9,Middle,55,Middle,3,Low
+53,Mid  ,Female,PG,Metropolitan City   ,9,Middle,50,Middle,10,Low
+27,Young,Male  ,PG,Metropolitan City   ,9,Middle,65,High,7,Low
+27,Young,Male  ,PG,Rural               ,8,Middle,56,Middle,30,Middle
+24,Young,Female,PG,Metropolitan City   ,13,High,24,Low,33,Middle
+26,Young,Male  ,UG,Rural               ,10,High,56,Middle,33,Middle
+24,Young,Female,PG,Metropolitan City   ,9,Middle,57,High,10,Low
+26,Young,Male  ,PG,Rural               ,10,High,67,High,11,Low
+25,Young,Male  ,PG,Urban Municipal Area,9,Middle,47,Middle,12,Low
+35,Young,Female,PG,Metropolitan City   ,8,Middle,51,Middle,5,Low
+26,Young,Male  ,PG,Rural               ,10,High,45,Low,9,Low
+24,Young,Female,Phd/M.Phil,Urban Municipal Area,8,Middle,38,Low,11,Low
+27,Young,Female,PG,Rural               ,8,Middle,49,Middle,18,Low
+25,Young,Male  ,UG,Urban Municipal Area,11,High,46,Low,12,Low
+18,Young,Male  ,UG,Urban Municipal Area,11,High,58,High,7,Low
+20,Young,Male  ,UG,Urban Municipal Area,7,Low,50,Middle,14,Low
+67,Old  ,Male  ,PG,Urban Municipal Area,6,Low,44,Low,7,Low
+29,Young,Male  ,UG,Urban Municipal Area,10,High,54,Middle,6,Low
+31,Young,Male  ,PG,Rural               ,8,Low,48,Middle,23,Middle
+38,Young,Female,PG,Urban Municipal Area,7,Low,53,Middle,14,Low
+22,Young,Female,PG,Rural               ,10,High,53,Middle,8,Low
+25,Young,Male  ,PG,Urban Municipal Area,12,High,42,Low,9,Low
+18,Young,Male  ,UG,Metropolitan City   ,13,High,46,Low,2,Low
+24,Young,Male  ,PG,Rural               ,7,Low,56,Middle,36,High
+26,Young,Male  ,UG,Urban Municipal Area,8,Low,46,Low,4,Low
+32,Young,Male  ,PG,Metropolitan City   ,7,Low,54,Middle,14,Low
+32,Young,Male  ,PG,Metropolitan City   ,7,Low,50,Middle,13,Low
+24,Young,Male  ,PG,Urban Municipal Area,13,High,38,Low,25,Middle
+28,Young,Female,PG,Metropolitan City   ,8,Middle,49,Middle,32,Middle
+24,Young,Male  ,PG,Rural               ,9,Middle,45,Low,4,Low
+34,Young,Female,PG,Metropolitan City   ,11,High,43,Low,2,Low
+25,Young,Female,PG,Metropolitan City   ,13,High,38,Low,36,High
+27,Young,Male  ,UG,Metropolitan City   ,12,High,46,Low,16,Low
+29,Young,Female,PG,Metropolitan City   ,5,Low,56,Middle,9,Low
+26,Young,Female,PG,Urban Municipal Area,5,Low,33,Low,16,Low
+33,Young,Male  ,PG,Metropolitan City   ,10,High,53,Middle,5,Low
+29,Young,Female,PG,Urban Municipal Area,7,Low,53,Middle,21,Low
+38,Young,Male  ,PG,Rural               ,9,Middle,64,High,7,Low
+31,Young,Male  ,PG,Rural               ,6,Low,51,Middle,0,Low
+37,Young,Male  ,UG,Urban Municipal Area,7,Low,53,Middle,33,Middle
+32,Young,Female,PG,Urban Municipal Area,5,Low,62,High,20,Low
+26,Young,Male  ,UG,Urban Municipal Area,8,Middle,53,Middle,17,Low
+32,Young,Female,Phd/M.Phil,Rural               ,10,High,63,High,4,Low
+38,Young,Female,Phd/M.Phil,Metropolitan City   ,6,Low,54,Middle,9,Low
+26,Young,Male  ,PG,Rural               ,11,High,54,Middle,5,Low
+27,Young,Male  ,PG,Urban Municipal Area,5,Low,49,Middle,21,Low
+38,Young,Male  ,Phd/M.Phil,Urban Municipal Area,8,Middle,57,High,21,Low
+27,Young,Female,PG,Urban Municipal Area,8,Middle,55,Middle,32,Middle
+35,Young,Male  ,PG,Urban Municipal Area,8,Middle,65,High,0,Low
+35,Young,Female,PG,Metropolitan City   ,8,Middle,42,Low,5,Low
+19,Young,Male  ,UG,Rural               ,11,High,54,Middle,5,Low
+28,Young,Female,Phd/M.Phil,Rural               ,12,High,47,Middle,34,Middle
+67,Old  ,Male  ,Phd/M.Phil,Urban Municipal Area,8,Middle,40,Low,3,Low
+24,Young,Female,PG,Rural               ,10,High,50,Middle,28,Middle
+22,Young,Female,UG,Rural               ,11,High,49,Middle,7,Low
+29,Young,Female,PG,Urban Municipal Area,10,High,35,Low,13,Low
+23,Young,Female,PG,Urban Municipal Area,8,Middle,51,Middle,2,Low
+24,Young,Female,PG,Rural               ,6,Low,50,Middle,5,Low
+26,Young,Female,PG,Urban Municipal Area,14,High,50,Middle,24,Middle
+20,Young,Male  ,UG,Metropolitan City   ,11,High,47,Middle,8,Low
+50,Mid  ,Male  ,PG,Metropolitan City   ,5,Low,66,High,3,Low
+34,Young,Female,UG,Urban Municipal Area,6,Low,47,Middle,5,Low
+28,Young,Male  ,Phd/M.Phil,Urban Municipal Area,6,Low,38,Low,17,Low
+18,Young,Male  ,UG,Urban Municipal Area,10,High,49,Middle,7,Low
+21,Young,Male  ,UG,Metropolitan City   ,8,Middle,61,High,1,Low
+26,Young,Female,PG,Rural               ,12,High,51,Middle,39,High
+21,Young,Female,UG,Metropolitan City   ,11,High,52,Middle,8,Low
+21,Young,Male  ,UG,Metropolitan City   ,5,Low,56,Middle,11,Low
+31,Young,Female,PG,Urban Municipal Area,10,High,58,High,38,High
+32,Young,Male  ,PG,Urban Municipal Area,10,High,57,High,10,Low
+31,Young,Male  ,Phd/M.Phil,Rural               ,8,Middle,53,High,34,Middle
+19,Young,Female,UG,Rural               ,11,High,45,Low,39,Low
+21,Young,Male  ,UG,Rural               ,14,High,60,High,11,Low
+22,Young,Male  ,UG,Rural               ,12,High,34,Low,6,Low
+24,Young,Male  ,PG,Metropolitan City   ,7,Low,48,Middle,11,Low
+19,Young,Male  ,UG,Urban Municipal Area,9,Middle,52,Middle,16,Low
+40,Mid  ,Male  ,UG,Urban Municipal Area,9,Middle,48,Middle,6,Low
+27,Young,Female,PG,Rural               ,13,High,57,High,10,Low
+25,Young,Male  ,UG,Rural               ,9,Middle,51,Middle,2,Low
+21,Young,Male  ,UG,Metropolitan City   ,9,Middle,56,Middle,26,Middle
+25,Young,Male  ,UG,Rural               ,8,Middle,53,Middle,2,Low
+49,Mid  ,Male  ,PG,Metropolitan City   ,9,Middle,62,High,22,Middle
+50,Mid  ,Female,Phd/M.Phil,Metropolitan City   ,6,Low,67,High,0,Low
+27,Young,Female,PG,Metropolitan City   ,7,Low,33,Low,21,Low
+62,Old  ,Male  ,PG,Metropolitan City   ,5,Low,59,High,21,Low
+35,Young,Male  ,PG,Urban Municipal Area,8,Middle,58,High,0,Low
+27,Young,Female,PG,Metropolitan City   ,7,Low,33,Low,21,Low
+26,Young,Male  ,PG,Metropolitan City   ,14,High,52,Middle,44,High
+22,Young,Female,UG,Metropolitan City   ,8,Middle,59,High,3,Low
+23,Young,Male  ,UG,Rural               ,9,Middle,44,Middle,5,Low
+25,Young,Female,PG,Urban Municipal Area,9,Middle,60,High,12,Low
+30,Young,Male  ,Phd/M.Phil,Urban Municipal Area,14,High,19,Low,9,Low
+26,Young,Female,PG,Rural               ,7,Low,60,High,23,Middle
+30,Young,Female,PG,Rural               ,7,Low,41,Low,29,Middle
+29,Young,Male  ,UG,Metropolitan City   ,9,Middle,58,High,0,Low
+51,Mid  ,Male  ,Phd/M.Phil,Metropolitan City   ,8,Middle,51,Middle,40,High
+20,Young,Female,UG,Metropolitan City   ,14,High,56,Middle,7,Low
+25,Young,Male  ,PG,Rural               ,12,High,49,Middle,3,Low
+24,Young,Male  ,UG,Urban Municipal Area,10,High,48,Middle,10,Low
+28,Young,Female,Phd/M.Phil,Rural               ,8,Middle,41,Low,21,Low
+34,Young,Male  ,PG,Urban Municipal Area,9,Middle,46,Low,19,High
+20,Young,Female,UG,Urban Municipal Area,10,High,50,Middle,11,Low
+20,Young,Male  ,UG,Urban Municipal Area,10,High,48,Middle,11,Low
+32,Young,Male  ,PG,Rural               ,9,Middle,64,High,0,Low
+19,Young,Female,UG,Metropolitan City   ,14,High,28,Low,6,Low
+20,Young,Female,UG,Urban Municipal Area,7,Low,52,Middle,4,Low
+36,Young,Female,PG,Metropolitan City   ,6,Low,56,Middle,6,Low
+62,Old  ,Female,Phd/M.Phil,Metropolitan City   ,7,Low,58,High,10,Low
+21,Young,Female,UG,Metropolitan City   ,11,High,53,Middle,3,Low
+20,Young,Female,UG,Urban Municipal Area,9,Middle,47,Middle,11,Low
+24,Young,Female,Phd/M.Phil,Rural               ,8,Middle,51,Middle,30,Middle
+31,Young,Male  ,UG,Metropolitan City   ,10,High,43,Low,9,Low
+21,Young,Male  ,UG,Rural               ,8,Middle,50,Middle,0,Low
+30,Young,Female,PG,Metropolitan City   ,8,Middle,58,High,5,Low
+24,Young,Female,PG,Rural               ,7,Low,41,Low,4,Low
+37,Young,Male  ,PG,Metropolitan City   ,14,High,59,High,0,Low
+18,Young,Male  ,UG,Urban Municipal Area,7,Low,53,Middle,5,Low
+20,Young,Male  ,UG,Urban Municipal Area,13,High,41,Low,8,Low
+24,Young,Female,UG,Urban Municipal Area,11,High,45,Low,7,Low
+20,Young,Female,UG,Urban Municipal Area,12,High,59,High,5,Low
+20,Young,Female,UG,Urban Municipal Area,12,High,35,Low,18,Low
+32,Young,Male  ,PG,Rural               ,8,Middle,60,High,1,Low
+20,Young,Female,UG,Metropolitan City   ,9,Middle,55,Middle,5,Low
+20,Young,Female,UG,Metropolitan City   ,9,Middle,55,Middle,5,Low
+32,Young,Female,UG,Metropolitan City   ,9,Middle,48,Middle,16,Low
+29,Young,Male  ,UG,Urban Municipal Area,12,High,50,Middle,11,Low
+45,Mid  ,Male  ,UG,Urban Municipal Area,11,High,52,Middle,13,Low
+29,Young,Male  ,UG,Rural               ,9,Middle,55,Middle,8,Low
+22,Young,Male  ,UG,Urban Municipal Area,6,Low,54,Middle,14,Low
+42,Mid  ,Male  ,PG,Urban Municipal Area,12,High,65,High,13,Low
+29,Young,Male  ,PG,Rural               ,6,Low,57,High,16,Low
+58,Mid  ,Male  ,PG,Metropolitan City   ,7,Low,66,High,3,Low
+29,Young,Female,UG,Urban Municipal Area,9,Middle,54,Middle,4,Low
+29,Young,Male  ,PG,Metropolitan City   ,9,Middle,48,Middle,25,Middle
+33,Young,Female,PG,Urban Municipal Area,6,Low,62,High,5,Low
+31,Young,Male  ,PG,Urban Municipal Area,5,Low,32,Low,3,Low
+21,Young,Female,UG,Urban Municipal Area,10,High,47,Middle,5,Low
+35,Young,Male  ,UG,Metropolitan City   ,8,Middle,63,High,5,Low
+29,Young,Female,PG,Urban Municipal Area,10,High,50,Middle,19,Low
+26,Young,Female,PG,Urban Municipal Area,6,Low,61,High,14,Low
+31,Young,Male  ,PG,Metropolitan City   ,12,High,63,High,2,Low
+29,Young,Female,PG,Urban Municipal Area,8,Middle,61,High,6,Low
+34,Young,Male  ,UG,Urban Municipal Area,6,Low,45,Low,7,Low
+21,Young,Male  ,UG,Urban Municipal Area,8,Middle,42,Low,16,Low
+39,Mid  ,Female,Phd/M.Phil,Metropolitan City   ,7,Low,46,Low,6,Low
+43,Mid  ,Male  ,PG,Urban Municipal Area,11,High,60,High,9,Low
+28,Young,Female,Phd/M.Phil,Metropolitan City   ,6,Low,51,Middle,7,Low
+28,Young,Male  ,PG,Rural               ,8,Middle,48,Middle,3,Low
+21,Young,Female,UG,Urban Municipal Area,8,Middle,53,Middle,8,Low
+43,Mid  ,Male  ,PG,Urban Municipal Area,6,Low,58,High,3,Low
+39,Mid  ,Male  ,PG,Urban Municipal Area,4,Low,52,Middle,5,Low
+43,Mid  ,Female,PG,Urban Municipal Area,10,High,46,Low,29,Middle
+28,Young,Male  ,PG,Rural               ,8,Middle,63,High,0,Low
+28,Young,Male  ,PG,Rural               ,8,Middle,63,High,0,Low
+38,Young,Male  ,UG,Metropolitan City   ,8,Middle,53,Middle,9,Low
+44,Mid  ,Male  ,PG,Metropolitan City   ,9,Middle,48,Middle,7,Low
+22,Young,Male  ,UG,Rural               ,12,High,44,Low,11,Low
+34,Young,Female,PG,Urban Municipal Area,10,High,36,Low,26,Middle
+32,Young,Female,Phd/M.Phil,Metropolitan City   ,6,Low,55,Middle,2,Low
+26,Young,Male  ,PG,Metropolitan City   ,8,Middle,50,Middle,9,Low
+35,Young,Female,PG,Urban Municipal Area,8,Middle,56,Middle,6,Low
+35,Young,Female,PG,Urban Municipal Area,8,Middle,56,Middle,6,Low
+20,Young,Male  ,UG,Urban Municipal Area,8,Middle,56,Middle,10,Low
+47,Mid  ,Female,PG,Metropolitan City   ,6,Low,59,High,2,Low
+27,Young,Female,PG,Urban Municipal Area,7,Low,55,Middle,9,Low
+33,Young,Female,PG,Metropolitan City   ,5,Low,66,High,9,Low
+46,Mid  ,Male  ,PG,Metropolitan City   ,7,Low,54,Middle,3,Low
+23,Young,Male  ,PG,Rural               ,7,Low,54,Middle,18,Low
+57,Mid  ,Female,PG,Metropolitan City   ,9,Middle,64,High,14,Low
+23,Young,Male  ,UG,Metropolitan City   ,6,Low,47,Middle,5,Low
+43,Mid  ,Female,UG,Metropolitan City   ,8,Middle,61,High,4,Low
+38,Young,Female,UG,Metropolitan City   ,8,Middle,40,Low,0,Low
+50,Mid  ,Female,Phd/M.Phil,Metropolitan City   ,6,Low,66,High,0,Low
+27,Young,Female,PG,Urban Municipal Area,6,Low,43,Low,30,Middle
+31,Young,Male  ,PG,Urban Municipal Area,12,High,53,Middle,15,Low
+23,Young,Male  ,UG,Urban Municipal Area,15,High,47,Middle,32,Middle
+23,Young,Female,PG,Rural               ,5,Low,60,High,12,Low
+43,Mid  ,Female,PG,Metropolitan City   ,8,Middle,60,High,21,Low
+20,Young,Male  ,UG,Urban Municipal Area,9,Middle,57,High,4,Low
+26,Young,Female,PG,Metropolitan City   ,8,Middle,44,Low,11,Low
+50,Mid  ,Male  ,PG,Urban Municipal Area,9,Middle,59,High,7,Low
+37,Young,Male  ,PG,Metropolitan City   ,10,High,57,High,4,Low
+30,Young,Male  ,PG,Urban Municipal Area,6,Low,50,Middle,2,Low
+29,Young,Male  ,UG,Urban Municipal Area,10,High,58,High,0,Low
+25,Young,Male  ,UG,Urban Municipal Area,7,Low,58,High,12,Low
+43,Mid  ,Male  ,PG,Urban Municipal Area,6,Low,46,Low,9,Low
+24,Young,Male  ,UG,Urban Municipal Area,5,Low,45,Low,17,Low
+47,Mid  ,Male  ,Phd/M.Phil,Urban Municipal Area,7,Low,61,High,4,Low
+43,Mid  ,Female,PG,Metropolitan City   ,9,Middle,61,High,20,Low
+35,Young,Male  ,PG,Rural               ,6,Low,53,Middle,10,Low
+38,Young,Male  ,Phd/M.Phil,Urban Municipal Area,11,High,34,Low,7,Low
+29,Young,Male  ,PG,Rural               ,10,High,45,Low,13,Low
+36,Young,Female,PG,Metropolitan City   ,8,Middle,53,Middle,3,Low
+61,Old  ,Female,PG,Metropolitan City   ,9,Middle,52,Middle,5,Low
+28,Young,Female,PG,Urban Municipal Area,9,Middle,52,Middle,11,Low
+27,Young,Female,PG,Urban Municipal Area,12,High,43,Low,30,Middle
+25,Young,Female,PG,Rural               ,11,High,46,Low,17,Low
+26,Young,Male  ,PG,Rural               ,7,Low,55,Middle,24,Middle
+54,Mid  ,Female,Phd/M.Phil,Metropolitan City   ,10,High,52,Middle,16,Low
+24,Young,Male  ,PG,Rural               ,9,Middle,44,Middle,6,Low
+34,Young,Female,PG,Metropolitan City   ,7,Low,41,Low,5,Low
+49,Mid  ,Male  ,UG,Rural               ,10,High,46,High,2,Low
+52,Mid  ,Female,PG,Metropolitan City   ,8,Middle,51,Middle,7,Low
+25,Young,Male  ,UG,Urban Municipal Area,12,High,26,Low,29,Middle
+30,Young,Male  ,PG,Metropolitan City   ,14,High,31,Low,48,High
+36,Young,Male  ,PG,Metropolitan City   ,9,Middle,39,Low,13,Low
+35,Young,Male  ,PG,Urban Municipal Area,7,Low,61,High,0,Low
+28,Young,Male  ,PG,Urban Municipal Area,9,Middle,56,Middle,8,Low
+24,Young,Female,PG,Urban Municipal Area,9,Middle,40,Low,14,Low
+30,Young,Male  ,PG,Metropolitan City   ,10,High,48,Middle,13,Low
+39,Mid  ,Female,PG,Metropolitan City   ,7,Low,38,Low,19,Low
+33,Young,Male  ,PG,Urban Municipal Area,8,Middle,45,Low,17,Low
+38,Young,Male  ,UG,Urban Municipal Area,9,Middle,35,Low,17,Low
+39,Mid  ,Male  ,Phd/M.Phil,Metropolitan City   ,8,Middle,55,Middle,8,Low
+26,Young,Male  ,PG,Rural               ,13,High,58,High,10,Low
+26,Young,Male  ,PG,Rural               ,11,High,36,Low,16,Low
+27,Young,Female,PG,Metropolitan City   ,7,Low,52,Middle,14,Low
+38,Young,Female,PG,Urban Municipal Area,6,Low,52,Middle,3,Low
+20,Young,Male  ,UG,Urban Municipal Area,7,Low,36,Low,8,Low
+38,Young,Female,PG,Metropolitan City   ,9,Middle,46,Low,25,Middle
+30,Young,Female,PG,Urban Municipal Area,9,Middle,44,Low,18,Low
+32,Young,Male  ,PG,Urban Municipal Area,7,Low,53,Middle,0,Low
+48,Mid  ,Male  ,Phd/M.Phil,Metropolitan City   ,6,Low,46,Low,23,Middle
+50,Mid  ,Female,UG,Metropolitan City   ,6,Low,44,Low,26,Middle
+53,Mid  ,Male  ,UG,Urban Municipal Area,6,Low,61,High,3,Low
+26,Young,Male  ,PG,Rural               ,10,High,55,Middle,5,Low
+24,Young,Female,PG,Metropolitan City   ,9,Middle,33,Low,5,Low
+37,Young,Male  ,PG,Urban Municipal Area,9,Middle,41,Low,16,Low
+37,Young,Male  ,PG,Urban Municipal Area,8,Middle,50,Middle,5,Low
+20,Young,Female,UG,Urban Municipal Area,13,High,38,Low,20,Low
+47,Mid  ,Male  ,PG,Metropolitan City   ,12,High,34,Low,11,Low
+27,Young,Male  ,PG,Urban Municipal Area,9,Middle,60,High,5,Low
+69,Old  ,Male  ,PG,Urban Municipal Area,9,Middle,52,Middle,18,Low
+26,Young,Female,PG,Metropolitan City   ,9,Middle,37,Low,13,Low
+37,Young,Female,PG,Metropolitan City   ,9,Middle,59,High,0,Low
+34,Young,Female,PG,Urban Municipal Area,6,Low,54,Middle,12,Low
+21,Young,Female,UG,Urban Municipal Area,10,High,41,Low,20,Low
+22,Young,Male  ,UG,Metropolitan City   ,11,High,54,Middle,2,Low
+32,Young,Female,PG,Metropolitan City   ,6,Low,45,Low,11,Low
+22,Young,Female,UG,Metropolitan City   ,7,Low,40,Low,39,High
+42,Mid  ,Female,PG,Urban Municipal Area,7,Low,63,High,21,Low
+21,Young,Male  ,UG,Urban Municipal Area,6,Low,56,Middle,7,Low
+33,Young,Male  ,PG,Urban Municipal Area,6,Low,49,Middle,7,Low
+38,Young,Male  ,PG,Urban Municipal Area,8,Middle,59,High,10,Low
+40,Mid  ,Female,Phd/M.Phil,Urban Municipal Area,5,Low,69,High,0,Low
+40,Mid  ,Female,PG,Metropolitan City   ,9,Middle,66,High,2,Low
+35,Young,Male  ,PG,Metropolitan City   ,6,Low,56,Middle,1,Low
+26,Young,Male  ,UG,Urban Municipal Area,9,Middle,61,High,5,Low
+42,Mid  ,Male  ,Phd/M.Phil,Urban Municipal Area,5,Low,39,Low,11,Low
+22,Young,Male  ,UG,Rural               ,7,Low,46,Low,2,Low
+22,Young,Male  ,UG,Urban Municipal Area,7,Low,55,Middle,2,Low
+51,Mid  ,Male  ,PG,Urban Municipal Area,9,Middle,58,High,7,Low
+26,Young,Female,PG,Rural               ,8,Middle,44,Low,33,High
+35,Young,Female,PG,Metropolitan City   ,7,Low,55,Middle,6,Low
+42,Mid  ,Female,PG,Rural               ,8,Middle,63,High,24,High
+23,Young,Male  ,PG,Rural               ,8,Middle,51,Middle,30,High
+58,Mid  ,Male  ,PG,Metropolitan City   ,7,Low,62,High,0,Low
+27,Young,Male  ,Phd/M.Phil,Rural               ,13,High,46,Low,40,High
+23,Young,Female,PG,Urban Municipal Area,9,Middle,50,Middle,3,Low
+28,Young,Female,PG,Urban Municipal Area,7,Low,54,Middle,31,Middle
+30,Young,Male  ,PG,Urban Municipal Area,7,Low,39,Low,27,Middle
+50,Mid  ,Male  ,UG,Metropolitan City   ,7,Low,51,Middle,12,Low
+46,Mid  ,Female,PG,Metropolitan City   ,11,High,49,Middle,5,Low
+38,Young,Male  ,PG,Urban Municipal Area,9,Middle,42,Low,15,Low
+34,Young,Male  ,PG,Urban Municipal Area,9,Middle,47,Middle,9,Low
+43,Mid  ,Male  ,Phd/M.Phil,Urban Municipal Area,10,High,53,Middle,12,Low
+36,Young,Male  ,PG,Rural               ,10,High,45,Low,13,Low
+28,Young,Female,PG,Rural               ,10,High,58,High,5,Low
+30,Young,Male  ,UG,Urban Municipal Area,13,High,50,Middle,12,Low
+44,Mid  ,Male  ,PG,Urban Municipal Area,7,Low,56,Middle,3,Low
+28,Young,Male  ,PG,Metropolitan City   ,8,Middle,50,Middle,10,Low
+53,Mid  ,Female,PG,Metropolitan City   ,6,Low,65,High,1,Low
+51,Mid  ,Male  ,Phd/M.Phil,Urban Municipal Area,13,High,70,High,4,Low
+48,Mid  ,Male  ,UG,Urban Municipal Area,6,Low,63,High,8,Low
+36,Young,Female,PG,Metropolitan City   ,9,Middle,65,High,3,Low
+45,Mid  ,Male  ,Phd/M.Phil,Urban Municipal Area,8,Middle,60,High,13,Low
+53,Mid  ,Male  ,UG,Urban Municipal Area,11,High,61,High,2,Low
+27,Young,Female,PG,Urban Municipal Area,7,Low,54,Middle,18,Low
+27,Young,Female,PG,Urban Municipal Area,9,Middle,35,Low,8,Low
+46,Mid  ,Female,UG,Metropolitan City   ,8,Middle,61,High,23,Middle
+32,Young,Male  ,Phd/M.Phil,Urban Municipal Area,10,High,59,High,15,Low
+31,Young,Female,Phd/M.Phil,Metropolitan City   ,6,Low,49,Middle,13,Low
+59,Mid  ,Male  ,PG,Rural               ,6,Low,48,Middle,7,Low
+43,Mid  ,Male  ,Phd/M.Phil,Metropolitan City   ,6,Low,57,High,15,Low
+27,Young,Female,PG,Metropolitan City   ,7,Low,53,Middle,22,Middle
+27,Young,Male  ,PG,Metropolitan City   ,10,High,44,Low,36,High
+25,Young,Female,PG,Urban Municipal Area,6,Low,55,Middle,9,Low
+42,Mid  ,Male  ,Phd/M.Phil,Urban Municipal Area,11,High,67,High,0,Low
+46,Mid  ,Male  ,PG,Urban Municipal Area,11,High,52,Middle,25,Middle
+43,Mid  ,Female,PG,Urban Municipal Area,7,Low,52,Middle,6,Low
+24,Young,Male  ,PG,Rural               ,6,Low,37,Low,9,Low
+30,Young,Male  ,PG,Rural               ,6,Low,51,High,4,Low
+59,Mid  ,Male  ,PG,Metropolitan City   ,8,Middle,58,High,5,Low
+58,Mid  ,Female,PG,Metropolitan City   ,5,Low,70,High,0,Low
+27,Young,Female,PG,Urban Municipal Area,9,Middle,54,Middle,13,Low
+29,Young,Male  ,PG,Metropolitan City   ,12,High,54,Middle,13,Low
+26,Young,Male  ,PG,Urban Municipal Area,7,Low,57,High,8,Low
+23,Young,Male  ,UG,Urban Municipal Area,7,Low,54,Middle,3,Low
+29,Young,Male  ,PG,Urban Municipal Area,11,Middle,54,Middle,5,Low
+23,Young,Female,PG,Metropolitan City   ,8,Middle,49,Middle,36,High
+54,Mid  ,Female,PG,Metropolitan City   ,8,Middle,53,Middle,6,Low
+30,Young,Male  ,Phd/M.Phil,Urban Municipal Area,9,Middle,64,High,3,Low
+38,Young,Male  ,Phd/M.Phil,Rural               ,11,High,58,High,31,Middle
+51,Mid  ,Male  ,Phd/M.Phil,Rural               ,10,High,50,Middle,47,High
+79,Old  ,Male  ,Phd/M.Phil,Metropolitan City   ,5,Low,58,High,41,High
+48,Mid  ,Female,UG,Urban Municipal Area,6,Low,61,High,5,Low
+40,Mid  ,Female,Phd/M.Phil,Metropolitan City   ,5,Low,49,Middle,2,Low
+62,Old  ,Female,Phd/M.Phil,Urban Municipal Area,6,Low,56,Middle,2,Low
+48,Mid  ,Male  ,Phd/M.Phil,Metropolitan City   ,7,Low,53,Middle,5,Low
+39,Mid  ,Female,Phd/M.Phil,Rural               ,5,Low,44,Low,32,Middle
+47,Mid  ,Male  ,PG,Urban Municipal Area,11,High,41,Low,12,Low
+58,Mid  ,Male  ,PG,Metropolitan City   ,9,Middle,59,High,8,Low
+25,Young,Male  ,PG,Metropolitan City   ,8,Middle,51,Middle,10,Low
+52,Mid  ,Male  ,Phd/M.Phil,Rural               ,6,Low,49,Middle,22,Middle
+23,Young,Female,PG,Urban Municipal Area,13,High,36,Low,45,High
+42,Mid  ,Female,Phd/M.Phil,Urban Municipal Area,7,Low,57,High,19,Low
+35,Young,Male  ,PG,Metropolitan City   ,6,Low,63,High,19,Low
+51,Mid  ,Male  ,PG,Urban Municipal Area,8,Low,48,Middle,1,Low
+36,Young,Female,PG,Metropolitan City   ,7,Low,59,High,8,Low
+29,Young,Female,PG,Urban Municipal Area,10,High,61,High,6,Low
+25,Young,Male  ,UG,Urban Municipal Area,8,Middle,39,Low,14,Low
+23,Young,Female,PG,Urban Municipal Area,14,High,24,Low,22,Middle
+26,Young,Female,UG,Rural               ,14,High,23,Low,46,High
+26,Young,Female,PG,Urban Municipal Area,8,Middle,59,High,6,Low
+27,Young,Male  ,PG,Metropolitan City   ,8,Middle,53,Middle,1,Low
+42,Mid  ,Female,Phd/M.Phil,Metropolitan City   ,11,High,68,High,1,Low
+23,Young,Female,PG,Metropolitan City   ,8,Middle,51,Middle,37,High
+45,Mid  ,Male  ,PG,Urban Municipal Area,8,Middle,57,High,6,Low
+40,Mid  ,Male  ,PG,Rural               ,13,High,56,Middle,7,Low
+41,Mid  ,Female,PG,Metropolitan City   ,9,Middle,55,Middle,2,Low
+25,Young,Male  ,UG,Rural               ,16,High,50,Middle,25,Middle
+43,Mid  ,Female,PG,Urban Municipal Area,9,Middle,41,Low,3,Low
+23,Young,Female,UG,Urban Municipal Area,6,Low,33,Low,16,Low
+25,Young,Female,PG,Rural               ,7,Low,54,Middle,10,Low
+70,Old  ,Female,Phd/M.Phil,Metropolitan City   ,8,Middle,56,Middle,29,Middle
+42,Mid  ,Female,UG,Metropolitan City   ,10,High,60,High,3,Low
+24,Young,Male  ,PG,Rural               ,10,High,55,Middle,42,High
+23,Young,Female,PG,Rural               ,13,High,65,High,20,Low
+57,Mid  ,Male  ,UG,Urban Municipal Area,10,High,60,High,33,Middle
+38,Young,Female,PG,Metropolitan City   ,6,Low,56,High,10,Low
+43,Mid  ,Female,Phd/M.Phil,Rural               ,5,Low,69,High,1,Low
+64,Old  ,Male  ,UG,Urban Municipal Area,12,High,56,Middle,6,Low
+58,Mid  ,Male  ,UG,Metropolitan City   ,11,High,50,Middle,4,Low
+57,Mid  ,Male  ,Phd/M.Phil,Metropolitan City   ,8,Middle,63,High,3,Low
+42,Mid  ,Female,UG,Urban Municipal Area,6,Low,61,High,20,Low
+39,Mid  ,Female,PG,Metropolitan City   ,16,High,57,High,11,Low
+34,Young,Female,Phd/M.Phil,Urban Municipal Area,6,Low,56,Middle,37,High
+18,Young,Female,UG,Urban Municipal Area,5,Low,47,Middle,2,Low
+45,Mid  ,Male  ,PG,Urban Municipal Area,6,Low,40,Low,5,Low
+45,Mid  ,Male  ,Phd/M.Phil,Urban Municipal Area,9,Middle,42,Low,10,Low
+49,Mid  ,Female,Phd/M.Phil,Urban Municipal Area,8,Middle,43,Low,6,Low
+48,Mid  ,Female,Phd/M.Phil,Metropolitan City   ,6,Low,60,High,0,Low
+32,Young,Male  ,PG,Metropolitan City   ,16,High,58,High,6,Low
+28,Young,Male  ,PG,Urban Municipal Area,6,Low,60,High,17,Low
+26,Young,Female,PG,Urban Municipal Area,8,Middle,56,Middle,7,Low
+56,Mid  ,Female,Phd/M.Phil,Urban Municipal Area,12,High,70,High,2,Low
+30,Young,Male  ,PG,Urban Municipal Area,10,High,56,Middle,20,Low
+40,Mid  ,Female,Phd/M.Phil,Urban Municipal Area,6,Low,54,Middle,1,Low
+26,Young,Female,PG,Urban Municipal Area,7,Low,45,Low,22,Middle
+26,Young,Male  ,UG,Rural               ,7,Low,60,High,9,Low
+40,Mid  ,Male  ,UG,Metropolitan City   ,8,Middle,48,Middle,3,Low
+29,Young,Female,PG,Rural               ,7,Low,50,Middle,12,Low
+29,Young,Male  ,PG,Rural               ,10,High,49,Middle,23,Middle
+46,Mid  ,Female,PG,Urban Municipal Area,9,Middle,55,Middle,15,Low
+49,Mid  ,Male  ,Phd/M.Phil,Urban Municipal Area,5,Low,46,Low,1,Low
+27,Young,Male  ,PG,Rural               ,12,High,55,Middle,27,Middle
+31,Young,Male  ,PG,Urban Municipal Area,9,Middle,49,Middle,6,Low
+26,Young,Female,PG,Rural               ,7,Low,51,Middle,9,Low
+30,Young,Female,PG,Metropolitan City   ,7,Low,58,High,13,Low
+23,Young,Female,PG,Urban Municipal Area,9,Middle,43,Low,3,Low
+47,Mid  ,Male  ,UG,Urban Municipal Area,9,Middle,53,Middle,1,Low
+28,Young,Male  ,PG,Metropolitan City   ,6,Low,47,Middle,5,Low
+34,Young,Male  ,UG,Rural               ,7,Low,46,Low,9,Low
+23,Young,Male  ,UG,Urban Municipal Area,9,Middle,51,Middle,5,Low
+47,Mid  ,Female,Phd/M.Phil,Metropolitan City   ,9,Middle,50,Middle,15,Low
+35,Young,Female,Phd/M.Phil,Urban Municipal Area,11,High,51,Middle,6,Low
+40,Mid  ,Female,Phd/M.Phil,Metropolitan City   ,9,Middle,36,Low,2,Low
+36,Young,Female,Phd/M.Phil,Urban Municipal Area,8,Middle,61,High,30,Middle
+44,Mid  ,Male  ,Phd/M.Phil,Metropolitan City   ,6,Low,58,High,1,Low
+25,Young,Female,PG,Metropolitan City   ,7,Low,49,Middle,6,Low
+72,Old  ,Female,Phd/M.Phil,Metropolitan City   ,6,Low,60,High,7,Low
+46,Mid  ,Male  ,UG,Urban Municipal Area,8,Middle,54,Middle,10,Low
+23,Young,Female,UG,Metropolitan City   ,6,Low,36,Low,20,Low
+32,Young,Male  ,PG,Rural               ,5,Low,52,Middle,47,High
+25,Young,Female,PG,Metropolitan City   ,10,High,53,Middle,19,Low
+31,Young,Male  ,UG,Metropolitan City   ,14,High,55,Middle,10,Low
+25,Young,Male  ,PG,Metropolitan City   ,6,Low,65,High,2,Low
+74,Old  ,Male  ,PG,Metropolitan City   ,5,Low,53,Middle,3,Low
+28,Young,Female,Phd/M.Phil,Urban Municipal Area,6,Low,59,High,0,Low
+42,Mid  ,Female,Phd/M.Phil,Urban Municipal Area,7,Low,36,Low,6,Low
+55,Mid  ,Male  ,Phd/M.Phil,Metropolitan City   ,14,High,53,Middle,41,High
+46,Mid  ,Male  ,Phd/M.Phil,Urban Municipal Area,8,Middle,58,High,27,Middle
+39,Mid  ,Female,Phd/M.Phil,Urban Municipal Area,7,Low,30,Low,35,Middle
+29,Young,Male  ,UG,Rural               ,12,High,53,Middle,11,Low
+41,Mid  ,Male  ,PG,Metropolitan City   ,7,Low,55,Middle,0,Low
+43,Mid  ,Female,PG,Urban Municipal Area,5,Low,68,High,2,Low
+52,Mid  ,Male  ,Phd/M.Phil,Urban Municipal Area,7,Low,44,Low,22,Middle
+44,Mid  ,Female,Phd/M.Phil,Metropolitan City   ,9,Middle,48,Middle,0,Low
+27,Young,Female,PG,Urban Municipal Area,9,Middle,37,Low,18,Low
+26,Young,Male  ,PG,Metropolitan City   ,10,High,50,Middle,2,Low
+30,Young,Male  ,PG,Rural               ,12,High,56,Middle,3,Low
+43,Mid  ,Male  ,UG,Metropolitan City   ,5,Low,45,Low,6,Low
+28,Young,Male  ,Phd/M.Phil,Rural               ,8,Middle,40,Low,30,Middle
+35,Young,Male  ,Phd/M.Phil,Urban Municipal Area,7,Low,48,Middle,8,Low
+59,Mid  ,Female,Phd/M.Phil,Metropolitan City   ,6,Low,43,Middle,7,Low
+49,Mid  ,Female,Phd/M.Phil,Metropolitan City   ,7,Low,51,Middle,11,Low
+25,Young,Female,PG,Urban Municipal Area,12,High,39,Low,45,High
+23,Young,Female,PG,Rural               ,10,High,24,Low,7,Low
+36,Young,Male  ,PG,Urban Municipal Area,9,Middle,46,Low,3,Low
+32,Young,Female,Phd/M.Phil,Urban Municipal Area,9,Middle,52,Middle,33,Middle
+45,Mid  ,Female,Phd/M.Phil,Metropolitan City   ,8,Middle,54,Middle,6,Low
+22,Young,Female,UG,Urban Municipal Area,9,Middle,59,High,5,Low
+24,Young,Male  ,PG,Rural               ,10,High,49,Middle,3,Low
+36,Young,Female,PG,Urban Municipal Area,11,High,55,Middle,6,Low
+36,Young,Male  ,PG,Rural               ,6,Low,55,Middle,2,Low
+33,Young,Female,PG,Metropolitan City   ,9,Middle,47,Middle,7,Low
+23,Young,Male  ,UG,Urban Municipal Area,15,High,62,High,47,High
